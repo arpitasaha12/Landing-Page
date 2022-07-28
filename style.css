@@ -27,3 +27,7 @@
     height: 90vh;
     filter: brightness(50%);
 }
+
+.foot {
+    height: 400px;
+}
